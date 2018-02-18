@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="Default Web Site/metrics" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^C:\\Users\\oabraham\.OSIPR\\documents\\visual\ studio\ 2012\\Projects\\MetricReports\\MetricReports\\obj\\Release\\Package\\PackageTmp$" />
+    <parameterEntry kind="ProviderPath" scope="setAcl" match="^C:\\Users\\oabraham\.OSIPR\\documents\\visual\ studio\ 2012\\Projects\\MetricReports\\MetricReports\\obj\\Release\\Package\\PackageTmp$" />
+  </parameter>
+  <parameter name="BPOConnectionString-Web.config Connection String" description="" value="Data Source=SQLXACCT;Initial Catalog=BPO;Persist Security Info=True;User ID=Webconnection;Password=Xpm...!!1845_Ctap" tags="">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\oabraham\.OSIPR\\documents\\visual\ studio\ 2012\\Projects\\MetricReports\\MetricReports\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='BPOConnectionString']/@connectionString" />
+  </parameter>
+  <parameter name="DefaultConnection-Web.config Connection String" description="" value="Data Source=(LocalDb)\v11.0;Initial Catalog=aspnet-MetricReports-20140303103510;Integrated Security=SSPI;AttachDBFilename=|DataDirectory|\aspnet-MetricReports-20140303103510.mdf" tags="">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\oabraham\.OSIPR\\documents\\visual\ studio\ 2012\\Projects\\MetricReports\\MetricReports\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='DefaultConnection']/@connectionString" />
+  </parameter>
+</parameters>

@@ -1,0 +1,74 @@
+C:\Users\oabraham.OSIPR\documents\visual studio 2012\Projects\MetricReports\MetricReports\bin\MetricReports.dll
+C:\Users\oabraham.OSIPR\documents\visual studio 2012\Projects\MetricReports\MetricReports\bin\MetricReports.pdb
+C:\Users\oabraham.OSIPR\documents\visual studio 2012\Projects\MetricReports\MetricReports\bin\MetricReports.xml
+C:\Users\oabraham.OSIPR\documents\visual studio 2012\Projects\MetricReports\MetricReports\bin\Antlr3.Runtime.dll
+C:\Users\oabraham.OSIPR\documents\visual studio 2012\Projects\MetricReports\MetricReports\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\oabraham.OSIPR\documents\visual studio 2012\Projects\MetricReports\MetricReports\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+C:\Users\oabraham.OSIPR\documents\visual studio 2012\Projects\MetricReports\MetricReports\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\oabraham.OSIPR\documents\visual studio 2012\Projects\MetricReports\MetricReports\bin\DotNetOpenAuth.Core.dll
+C:\Users\oabraham.OSIPR\documents\visual studio 2012\Projects\MetricReports\MetricReports\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\oabraham.OSIPR\documents\visual studio 2012\Projects\MetricReports\MetricReports\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\oabraham.OSIPR\documents\visual studio 2012\Projects\MetricReports\MetricReports\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\oabraham.OSIPR\documents\visual studio 2012\Projects\MetricReports\MetricReports\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\oabraham.OSIPR\documents\visual studio 2012\Projects\MetricReports\MetricReports\bin\EntityFramework.dll
+C:\Users\oabraham.OSIPR\documents\visual studio 2012\Projects\MetricReports\MetricReports\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\oabraham.OSIPR\documents\visual studio 2012\Projects\MetricReports\MetricReports\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+C:\Users\oabraham.OSIPR\documents\visual studio 2012\Projects\MetricReports\MetricReports\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\oabraham.OSIPR\documents\visual studio 2012\Projects\MetricReports\MetricReports\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\oabraham.OSIPR\documents\visual studio 2012\Projects\MetricReports\MetricReports\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\oabraham.OSIPR\documents\visual studio 2012\Projects\MetricReports\MetricReports\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\oabraham.OSIPR\documents\visual studio 2012\Projects\MetricReports\MetricReports\bin\System.Web.Optimization.dll
+C:\Users\oabraham.OSIPR\documents\visual studio 2012\Projects\MetricReports\MetricReports\bin\System.Web.Providers.dll
+C:\Users\oabraham.OSIPR\documents\visual studio 2012\Projects\MetricReports\MetricReports\bin\WebGrease.dll
+C:\Users\oabraham.OSIPR\documents\visual studio 2012\Projects\MetricReports\MetricReports\bin\EntityFramework.xml
+C:\Users\oabraham.OSIPR\documents\visual studio 2012\Projects\MetricReports\MetricReports\bin\DotNetOpenAuth.Core.xml
+C:\Users\oabraham.OSIPR\documents\visual studio 2012\Projects\MetricReports\MetricReports\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\oabraham.OSIPR\documents\visual studio 2012\Projects\MetricReports\MetricReports\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\oabraham.OSIPR\documents\visual studio 2012\Projects\MetricReports\MetricReports\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\oabraham.OSIPR\documents\visual studio 2012\Projects\MetricReports\MetricReports\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\oabraham.OSIPR\documents\visual studio 2012\Projects\MetricReports\MetricReports\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\oabraham.OSIPR\documents\visual studio 2012\Projects\MetricReports\MetricReports\bin\Microsoft.AspNet.Membership.OpenAuth.xml
+C:\Users\oabraham.OSIPR\documents\visual studio 2012\Projects\MetricReports\MetricReports\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\oabraham.OSIPR\documents\visual studio 2012\Projects\MetricReports\MetricReports\obj\Debug\MetricReports.vbprojResolveAssemblyReference.cache
+C:\Users\oabraham.OSIPR\documents\visual studio 2012\Projects\MetricReports\MetricReports\obj\Debug\MetricReports.Resources.resources
+C:\Users\oabraham.OSIPR\documents\visual studio 2012\Projects\MetricReports\MetricReports\obj\Debug\MetricReports.vbproj.GenerateResource.Cache
+C:\Users\oabraham.OSIPR\documents\visual studio 2012\Projects\MetricReports\MetricReports\obj\Debug\MetricReports.dll
+C:\Users\oabraham.OSIPR\documents\visual studio 2012\Projects\MetricReports\MetricReports\obj\Debug\MetricReports.xml
+C:\Users\oabraham.OSIPR\documents\visual studio 2012\Projects\MetricReports\MetricReports\obj\Debug\MetricReports.pdb
+C:\VSProjects\MetricReports\MetricReports\bin\MetricReports.dll
+C:\VSProjects\MetricReports\MetricReports\bin\MetricReports.pdb
+C:\VSProjects\MetricReports\MetricReports\bin\MetricReports.xml
+C:\VSProjects\MetricReports\MetricReports\bin\Antlr3.Runtime.dll
+C:\VSProjects\MetricReports\MetricReports\bin\AspNet.ScriptManager.jQuery.dll
+C:\VSProjects\MetricReports\MetricReports\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+C:\VSProjects\MetricReports\MetricReports\bin\DotNetOpenAuth.AspNet.dll
+C:\VSProjects\MetricReports\MetricReports\bin\DotNetOpenAuth.Core.dll
+C:\VSProjects\MetricReports\MetricReports\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\VSProjects\MetricReports\MetricReports\bin\DotNetOpenAuth.OAuth.dll
+C:\VSProjects\MetricReports\MetricReports\bin\DotNetOpenAuth.OpenId.dll
+C:\VSProjects\MetricReports\MetricReports\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\VSProjects\MetricReports\MetricReports\bin\EntityFramework.dll
+C:\VSProjects\MetricReports\MetricReports\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\VSProjects\MetricReports\MetricReports\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+C:\VSProjects\MetricReports\MetricReports\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\VSProjects\MetricReports\MetricReports\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\VSProjects\MetricReports\MetricReports\bin\Microsoft.ScriptManager.WebForms.dll
+C:\VSProjects\MetricReports\MetricReports\bin\Microsoft.Web.Infrastructure.dll
+C:\VSProjects\MetricReports\MetricReports\bin\System.Web.Optimization.dll
+C:\VSProjects\MetricReports\MetricReports\bin\System.Web.Providers.dll
+C:\VSProjects\MetricReports\MetricReports\bin\WebGrease.dll
+C:\VSProjects\MetricReports\MetricReports\bin\EntityFramework.xml
+C:\VSProjects\MetricReports\MetricReports\bin\DotNetOpenAuth.Core.xml
+C:\VSProjects\MetricReports\MetricReports\bin\DotNetOpenAuth.OAuth.xml
+C:\VSProjects\MetricReports\MetricReports\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\VSProjects\MetricReports\MetricReports\bin\DotNetOpenAuth.OpenId.xml
+C:\VSProjects\MetricReports\MetricReports\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\VSProjects\MetricReports\MetricReports\bin\DotNetOpenAuth.AspNet.xml
+C:\VSProjects\MetricReports\MetricReports\bin\Microsoft.AspNet.Membership.OpenAuth.xml
+C:\VSProjects\MetricReports\MetricReports\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\VSProjects\MetricReports\MetricReports\obj\Debug\MetricReports.vbprojResolveAssemblyReference.cache
+C:\VSProjects\MetricReports\MetricReports\obj\Debug\MetricReports.Resources.resources
+C:\VSProjects\MetricReports\MetricReports\obj\Debug\MetricReports.vbproj.GenerateResource.Cache
+C:\VSProjects\MetricReports\MetricReports\obj\Debug\MetricReports.dll
+C:\VSProjects\MetricReports\MetricReports\obj\Debug\MetricReports.xml
+C:\VSProjects\MetricReports\MetricReports\obj\Debug\MetricReports.pdb
